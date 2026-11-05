@@ -6,12 +6,12 @@ Technical leader and a geek. I like experimenting with a wide range of technolog
 
 ### How I build
 
-- **Don't be the bottleneck** Today's tools can generate whole products. My job is to let them run.
-- **Forward deployment design** The pipeline improves as it goes. Humans monitor the process and give feedback with minimal interference.
-- **Trust through guardrails** Tests, CI and per-component guidelines make that trust reasonable, not blind.
-- **Fix the process, not only the bug** When something breaks, I trace what let it happen and fix that too.
-- **Solve problems that exist** A balanced version that ships beats a universal one that doesn't. No over-engineering for problems I don't have yet.
-- **Face problems early** Don't ignore them, and ask the right questions.
+- **Skip the bottlenecks** Today's tools can generate whole products. Our job is to let them run.
+- **Forward deployment design** The pipeline should improve as it goes. Humans monitor the process and provide critical feedback.
+- **Trust through guardrails** Tests, CI, and per-component guidelines make that trust reasonable, not blind.
+- **Fix the process, not only the bug** Trace what let it happen and fix that too.
+- **Solve real problems** A balanced version that ships beats a universal one that doesn't. No over-engineering for problems I don't have yet.
+- **Face problems early** Ask the right questions to spot potential problems. Don't ignore loose ends and don't let assumptions live.
 - **Think outside the box** Stay creative, and don't limit yourself to one type of solution.
 
 ### Projects
