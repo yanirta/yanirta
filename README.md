@@ -13,7 +13,7 @@ Technical leader and a geek. I like experimenting with a wide range of technolog
 - **Solve real problems** A balanced version that ships beats a universal one that doesn't. No over-engineering for problems I don't have yet.
 - **Face problems early** Ask the right questions to spot potential problems. Don't ignore loose ends and don't let assumptions live.
 - **Think outside the box** Stay creative, and don't limit yourself to one type of solution.
-
+- **Plans and design** Documents are the interface. Keep them fresh and precise.
 ### Projects
 
 | Project | What it does |
