@@ -1,0 +1,27 @@
+# Hi, I'm Yanir 👋
+
+Technical leader and a geek. I like experimenting with a wide range of technologies and using them to solve real world problems. Twenty years across security, test automation, AI and fintech, these days amplified by agentic LLMs.
+
+📍 GTA, ON  ·  [LinkedIn](https://www.linkedin.com/in/yanirta/)
+
+### How I build
+
+- **Don't be the bottleneck** Today's tools can generate whole products. My job is to let them run.
+- **Forward deployment design** The pipeline improves as it goes. Humans monitor the process and give feedback with minimal interference.
+- **Trust through guardrails** Tests, CI and per-component guidelines make that trust reasonable, not blind.
+- **Fix the process, not only the bug** When something breaks, I trace what let it happen and fix that too.
+- **Solve problems that exist** A balanced version that ships beats a universal one that doesn't. No over-engineering for problems I don't have yet.
+- **Face problems early** Don't ignore them, and ask the right questions.
+- **Think outside the box** Stay creative, and don't limit yourself to one type of solution.
+
+### Projects
+
+| Project | What it does |
+| --- | --- |
+| [XXSim](https://github.com/yanirta/XXSim) | Slim, precise, platform-independent core for trade execution simulation and realistic backtesting on candle bar data. On PyPI. |
+| [Scrollshot](https://github.com/yanirta/Scrollshot) | Robust full-page screenshots of complex scrollable web pages. |
+| [dotnetMonitor](https://github.com/yanirta/dotnetMonitor) | Build monitoring systems that capture a data baseline and compare later snapshots against it. |
+| [assertio](https://github.com/yanirta/assertio) | Early-stage idea for a platform that measures and monitors quality across an organization. |
+| HAR Studio | Analyze HAR files and find correlations, with Base64 decoding, common encryption handling and reverse engineering helpers. (to be added soon) |
+
+Most of my other public repos are test automation tools and integrations from my time at Applitools.
